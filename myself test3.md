@@ -37,6 +37,7 @@
 #### 方法二
 相对引用
 ![超链接语法结构截图]（images/chao lian jie 语法结构.png）
+![超链接语法结构截图](Images/chao lian jie.png)
 
 #### 语法含义解释
 * !：感叹号开头，表示这是一个图片
